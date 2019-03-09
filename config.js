@@ -27,7 +27,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: 'charlie@roffe.net',
+      email: 'c@croffe.com',
       telegram: '#',
       twitter: '@charlieroffe',
       github: 'croffe',
