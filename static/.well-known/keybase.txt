@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/croffe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://croffe.com
+  * I am croffe (https://keybase.io/croffe) on keybase.
+  * I have a public key ASDFWFdGA7EbD7G7sao-O2pbw2q3LjMvtjgDk8lX1hSNvwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cd2106b2406ff90fc8693fae3232db1fd71870bfe93d7f229b475924078cf6990a",
+      "host": "keybase.io",
+      "kid": "0120c558574603b11b0fb1bbb1aa3e3b6a5bc36ab72e332fb6380393c957d6148dbf0a",
+      "uid": "9e62114a68a17205183cbf41b768bc19",
+      "username": "croffe"
+    },
+    "merkle_root": {
+      "ctime": 1552221032,
+      "hash": "fe3112a14ffb27eff0f1007a165190dcbe6c1ea49b28d5c979a4982a260269f07d7f8a851e612c33cb61888676c093b2a5c7b20d4f4eb6b285a03c563112e839",
+      "hash_meta": "b1e92cb3de4a6408a722084e46fedfbf36f38db637549ab643e53ecfbba10db6",
+      "seqno": 4914669
+    },
+    "service": {
+      "entropy": "WJRpZStGVXOtUYOzQdo2haDA",
+      "hostname": "croffe.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.0"
+  },
+  "ctime": 1552221088,
+  "expire_in": 504576000,
+  "prev": "2eb5a1ba2d6db7a2380e6ec3a3f4d986af0543c88a32b28515a30275d99272dd",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxVhXRgOxGw+xu7GqPjtqW8Nqty4zL7Y4A5PJV9YUjb8Kp3BheWxvYWTESpcCDMQgLrWhui1tt6I4Dm7Do/TZhq8FQ8iKMrKFFaMCddmSct3EIIRcco0/cBFEKVSaKMBllDyAIrKgqafPyIuRUTTETDVvAgHCo3NpZ8RAYjIXXdEPAu5QN9clcZITHOeR5SlqR8GTJLxyVzQrv0ofSvYizakJzo+C3DTOH1gKOkBohLCylCjj5+UYdu1hA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGi/z7S2k0R1BVJ4Yukeq2tEngmbndK+BSacjJjRW+bWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/croffe
+
+==================================================================
