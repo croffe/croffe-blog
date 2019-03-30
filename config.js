@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://croffe.com',
   title: 'Blog by Charlie Roffe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Techie, visionary, and change agent focused on aligning priorities with people, process, and tech - Code, Cloud, Devops, Kubernetes, Serverless',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Charlie Roffe',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Techie, visionary, and change agent focused on aligning priorities with people, process, and tech - Code, Cloud, Devops, Kubernetes, Serverless',
     contacts: {
       email: 'c@croffe.com',
       telegram: '#',
